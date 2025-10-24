@@ -1,0 +1,23 @@
+.image-shaders
+            {
+                height: 510px;
+                width: 728px;
+            }
+.button_func
+{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+.button_func:hover
+{
+    background-color:azure;
+}
+
